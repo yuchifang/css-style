@@ -1,0 +1,25 @@
+{
+  "name": "css-style",
+  "version": "1.0.0",
+  "description": "css-style",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel -p 8080 index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuchifang/css-style.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuchifang/css-style/issues"
+  },
+  "homepage": "https://github.com/yuchifang/css-style#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.12.4",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}
